@@ -1,0 +1,6 @@
+{
+  "name": "Storm-kafka",
+  "tagline": "",
+  "body": "# Storm-Kafka\r\n\r\n* `/deploy` 中是 Storm-Kafka-Zookeeper 部署相关的自动化脚本\r\n* `docs` 中是 Storm-Kafka-Zookeeper 部署 & 使用相关的文档\r\n* `project` Storm-Kafka 编程 demo, 项目\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
